@@ -32,4 +32,4 @@ This project successfully demonstrated the implementation of a basic ALU using V
 In conclusion, this project highlights the importance of careful VHDL design, testing, and simulation in the creation of functional hardware components. The ALU designed here can serve as a fundamental building block for digital systems, and the methodology used in the testbench can be applied to larger, more complex designs in future projects.
 
 ### Output: 
-![output]
+![IMG-20250325-WA0017.jpg]
